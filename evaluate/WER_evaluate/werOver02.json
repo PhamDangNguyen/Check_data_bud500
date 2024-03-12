@@ -1,0 +1,298 @@
+[
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/100.wav",
+        "wer": 0.2222222222222222,
+        "duration": 2.1805625,
+        "GT_transcript": "nào cả đời này tôi chỉ theo nghiệp cầm",
+        "Pred_transcript": "Cả đời này tôi chỉ theo nghiệp",
+        "Pred_transcript_norm": "cả đời này tôi chỉ theo nghiệp"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/150.wav",
+        "wer": 0.7,
+        "duration": 3.3615625,
+        "GT_transcript": "thằng bảo long và cả vợ chồng cái con mụ",
+        "Pred_transcript": "Thằng Bảo Long",
+        "Pred_transcript_norm": "thằng bảo long"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/200.wav",
+        "wer": 0.42857142857142855,
+        "duration": 1.5,
+        "GT_transcript": "môi trường quan trọng nhiều loài động",
+        "Pred_transcript": "Môi trường quan trọng",
+        "Pred_transcript_norm": "môi trường quan trọng"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/1000.wav",
+        "wer": 0.2857142857142857,
+        "duration": 1.4613125,
+        "GT_transcript": "trái tim của hoàng phượng đập thình",
+        "Pred_transcript": "Trái tim của Hoàng Phượng",
+        "Pred_transcript_norm": "trái tim của hoàng phượng"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/1150.wav",
+        "wer": 0.3333333333333333,
+        "duration": 1.640625,
+        "GT_transcript": "rằng những gì đang xảy ra điều trị làm",
+        "Pred_transcript": "rằng những gì đang xảy ra đều",
+        "Pred_transcript_norm": "rằng những gì đang xảy ra đều"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/1300.wav",
+        "wer": 0.3333333333333333,
+        "duration": 2.0413125,
+        "GT_transcript": "yêu thích của mình ngồi phi cơ hạng sang",
+        "Pred_transcript": "Yêu thích của mình ngồi phi cơ.",
+        "Pred_transcript_norm": "yêu thích của mình ngồi phi cơ."
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/1350.wav",
+        "wer": 0.3,
+        "duration": 2.161,
+        "GT_transcript": "học của mình bài tập khá dài để đưa vào",
+        "Pred_transcript": "của mình.\n Bài tập khá dài để đưa về",
+        "Pred_transcript_norm": "của mình.\n bài tập khá dài để đưa về"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/1500.wav",
+        "wer": 0.2727272727272727,
+        "duration": 2.46,
+        "GT_transcript": "và lương thực để rồi đầu hàng không lâu sau đó",
+        "Pred_transcript": "và lương thực để rồi đầu hàng khổng lồ sau đó.",
+        "Pred_transcript_norm": "và lương thực để rồi đầu hàng khổng lồ sau đó."
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/1550.wav",
+        "wer": 0.3,
+        "duration": 2.641125,
+        "GT_transcript": "điện thoại để tôi trao đổi để em liên hệ",
+        "Pred_transcript": "Điện thoại để tôi trao đổi để",
+        "Pred_transcript_norm": "điện thoại để tôi trao đổi để"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/1700.wav",
+        "wer": 0.4,
+        "duration": 4.121875,
+        "GT_transcript": "toàn có âm mưu lừa người là nhanh ơ sao",
+        "Pred_transcript": "Toán có âm mưu là lừa người nhanh ơ",
+        "Pred_transcript_norm": "toán có âm mưu là lừa người nhanh ơ"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/1750.wav",
+        "wer": 0.5,
+        "duration": 2.5801875,
+        "GT_transcript": "nghe tiếng nhạc tiếp tục theo đuổi những",
+        "Pred_transcript": "Tiếp tục theo đuổi những sâu",
+        "Pred_transcript_norm": "tiếp tục theo đuổi những sâu"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/1800.wav",
+        "wer": 0.3333333333333333,
+        "duration": 3.201875,
+        "GT_transcript": "được nghỉ quân số bị thương vong khá lớn",
+        "Pred_transcript": "Vào được nghỉ quân số bị thương vong",
+        "Pred_transcript_norm": "vào được nghỉ quân số bị thương vong"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/2200.wav",
+        "wer": 0.3,
+        "duration": 3.8019375,
+        "GT_transcript": "tới ba má nó cũng hai con người ấy cũng",
+        "Pred_transcript": "Nói tới ba má, nó cũng hai con người ấy.",
+        "Pred_transcript_norm": "nói tới ba má nó cũng hai con người ấy."
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/2400.wav",
+        "wer": 0.2222222222222222,
+        "duration": 3.5615625,
+        "GT_transcript": "mép bàn cạnh tủ gờ tường cứ nhằm những",
+        "Pred_transcript": "Tào mép bàn, cạnh tủ g tường cứ nhằm những",
+        "Pred_transcript_norm": "tào mép bàn cạnh tủ g tường cứ nhằm những"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/2450.wav",
+        "wer": 0.2222222222222222,
+        "duration": 2.5600625,
+        "GT_transcript": "nghĩ lại cảnh năm xưa nguyệt cát bị ra",
+        "Pred_transcript": "Nghĩ lại cảnh năm xưa Việt Cát bị giam",
+        "Pred_transcript_norm": "nghĩ lại cảnh năm xưa việt cát bị giam"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/2500.wav",
+        "wer": 0.4,
+        "duration": 2.1215625,
+        "GT_transcript": "sông nin đến nay vẫn để lại cho hậu thế",
+        "Pred_transcript": "Tông Ninh đến nay vẫn để lại cho",
+        "Pred_transcript_norm": "tông ninh đến nay vẫn để lại cho"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/2700.wav",
+        "wer": 0.2222222222222222,
+        "duration": 2.242,
+        "GT_transcript": "nghỉ ngơi cho khỏe rồi chờ người lên đón",
+        "Pred_transcript": "Nghỉ ngơi cho khỏe rồi chờ người",
+        "Pred_transcript_norm": "nghỉ ngơi cho khỏe rồi chờ người"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/2750.wav",
+        "wer": 0.5,
+        "duration": 2.121,
+        "GT_transcript": "đưa ra quyết định kinh doanh nói một",
+        "Pred_transcript": "để đưa ra quyết định kinh doanh.",
+        "Pred_transcript_norm": "để đưa ra quyết định kinh doanh."
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/3100.wav",
+        "wer": 0.2857142857142857,
+        "duration": 2.0554375,
+        "GT_transcript": "hoa kỳ trở lại nội dung chính",
+        "Pred_transcript": "Trở lại nội dung chính",
+        "Pred_transcript_norm": "trở lại nội dung chính"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/3350.wav",
+        "wer": 0.3,
+        "duration": 2.061,
+        "GT_transcript": "vấn đề đáng bận tâm bởi việc vô hiệu hóa",
+        "Pred_transcript": "Vấn đề đáng bận tâm bởi việc",
+        "Pred_transcript_norm": "vấn đề đáng bận tâm bởi việc"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/3400.wav",
+        "wer": 0.5555555555555556,
+        "duration": 1.74,
+        "GT_transcript": "muốn hỏi là có những người đã hỏi rồi",
+        "Pred_transcript": "Ông hỏi Á là có những người",
+        "Pred_transcript_norm": "ông hỏi á là có những người"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/3700.wav",
+        "wer": 0.4444444444444444,
+        "duration": 1.7218125,
+        "GT_transcript": "có vài bệnh nhân là người nước ngoài và",
+        "Pred_transcript": "Có một vài bệnh nhân là người",
+        "Pred_transcript_norm": "có một vài bệnh nhân là người"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/3900.wav",
+        "wer": 0.25,
+        "duration": 2.562375,
+        "GT_transcript": "treo lên bác muốn nói nhỏ thương phải",
+        "Pred_transcript": "Reo lên: Bác muốn nói nhỏ thương phải",
+        "Pred_transcript_norm": "reo lên: bác muốn nói nhỏ thương phải"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/4050.wav",
+        "wer": 0.3,
+        "duration": 1.862125,
+        "GT_transcript": "như thế nào nếu như mà được thì tiếp tục",
+        "Pred_transcript": "như thế nào\n Nếu như mà được thì:",
+        "Pred_transcript_norm": "như thế nào\n nếu như mà được thì:"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/4150.wav",
+        "wer": 0.2222222222222222,
+        "duration": 1.8425625,
+        "GT_transcript": "thanh quản nói chung bất kỳ bộ bộ phận",
+        "Pred_transcript": "thanh quản nói chung bất kỳ một bộ phận.",
+        "Pred_transcript_norm": "thanh quản nói chung bất kỳ một bộ phận."
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/4250.wav",
+        "wer": 0.3333333333333333,
+        "duration": 1.4356875,
+        "GT_transcript": "hơn họ rất nhiều mà thôi",
+        "Pred_transcript": "hơn họ rất nhiều",
+        "Pred_transcript_norm": "hơn họ rất nhiều"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/4650.wav",
+        "wer": 0.2222222222222222,
+        "duration": 2.5820625,
+        "GT_transcript": "mình sạc pin vừa là để mình tìm đến",
+        "Pred_transcript": "Sạc pin vừa là để mình tìm",
+        "Pred_transcript_norm": "sạc pin vừa là để mình tìm"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/5200.wav",
+        "wer": 0.3333333333333333,
+        "duration": 4.000625,
+        "GT_transcript": "từ thời pháp so với thời mỹ điều khác",
+        "Pred_transcript": "Từ thời Pháp so với thời Mỹ.\n Điêu khắc",
+        "Pred_transcript_norm": "từ thời pháp so với thời mỹ.\n điêu khắc"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/5750.wav",
+        "wer": 0.2222222222222222,
+        "duration": 2.680625,
+        "GT_transcript": "lên từ gầm xe toàn thân vinh ướt đầm",
+        "Pred_transcript": "Lên từ gầm xe.\n Toàn thân Vinh ướt đầu",
+        "Pred_transcript_norm": "lên từ gầm xe.\n toàn thân vinh ướt đầu"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/6100.wav",
+        "wer": 0.375,
+        "duration": 3.4564375,
+        "GT_transcript": "niệm thì vô minh sẽ rút lui thôi",
+        "Pred_transcript": "thì phô minh sẽ rút lui thôi.",
+        "Pred_transcript_norm": "thì phô minh sẽ rút lui thôi."
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/6200.wav",
+        "wer": 0.3,
+        "duration": 2.3213125,
+        "GT_transcript": "lời xa anh vì anh rất cố gắng về tình",
+        "Pred_transcript": "Những lời xa anh vì anh rất cố gắng",
+        "Pred_transcript_norm": "những lời xa anh vì anh rất cố gắng"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/6400.wav",
+        "wer": 0.2222222222222222,
+        "duration": 2.121,
+        "GT_transcript": "nhưng mà lúc đó mình ngây thơ dã man",
+        "Pred_transcript": "Nhưng mà lúc đó mình ngây thư, dã man.",
+        "Pred_transcript_norm": "nhưng mà lúc đó mình ngây thư dã man."
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/6450.wav",
+        "wer": 0.375,
+        "duration": 1.5814375,
+        "GT_transcript": "chưa mình đứng lên chưa mình biết đâu",
+        "Pred_transcript": "Chưa, mình đứng lên chưa",
+        "Pred_transcript_norm": "chưa mình đứng lên chưa"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/6750.wav",
+        "wer": 0.4444444444444444,
+        "duration": 2.319375,
+        "GT_transcript": "người đi ngã gỗ thuê cho những lái buôn",
+        "Pred_transcript": "\"Người điên\" ngã gỗ thuê cho những",
+        "Pred_transcript_norm": "\"người điên\" ngã gỗ thuê cho những"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/6800.wav",
+        "wer": 0.3333333333333333,
+        "duration": 1.819,
+        "GT_transcript": "ái của tôi dành cho một người con gái",
+        "Pred_transcript": "Gái của tôi dành cho một người",
+        "Pred_transcript_norm": "gái của tôi dành cho một người"
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/7150.wav",
+        "wer": 0.2222222222222222,
+        "duration": 2.841875,
+        "GT_transcript": "diệp lan nghe câu này thì bĩu môi nhưng",
+        "Pred_transcript": "Diệp Lan nghe câu này thì bĩu môi.",
+        "Pred_transcript_norm": "diệp lan nghe câu này thì bĩu môi."
+    },
+    {
+        "path_wav": "/home/pdnguyen/VietAIbud500/Bud500_convert/test/wavs/7300.wav",
+        "wer": 0.3333333333333333,
+        "duration": 2.7011875,
+        "GT_transcript": "thanh niên mà nó lựa chọn rồi anh phải",
+        "Pred_transcript": "thanh niên mà nó lựa chọn rồi.",
+        "Pred_transcript_norm": "thanh niên mà nó lựa chọn rồi."
+    }
+]
